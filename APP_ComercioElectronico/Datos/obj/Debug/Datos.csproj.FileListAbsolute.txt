@@ -1,0 +1,12 @@
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\bin\Debug\Datos.dll
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\bin\Debug\Datos.pdb
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\obj\Debug\Datos.dll
+C:\Users\bymad\source\repos\APP_ComercioElectronico\Datos\obj\Debug\Datos.pdb
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\bin\Debug\Datos.dll
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\bin\Debug\Datos.pdb
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\obj\Debug\Datos.dll
+C:\Users\Oscar\Desktop\APP_ComercioElectronico\Datos\obj\Debug\Datos.pdb
